@@ -1,2 +1,2 @@
 # MultitaksMobilr
-https://Dragoshk.github.io/MultitaksMobilr/index.html
+https://dragoshk.github.io/MultitaksMobilr/
